@@ -457,15 +457,14 @@ image:
 font:
   - file:
       type: gfonts
-      family: Figtree
+      family: Noto+Sans+TC
       weight: 300
-      italic: true
     glyphs: ${allowed_characters}
     id: font_request
     size: 15
   - file:
       type: gfonts
-      family: Figtree
+      family: Noto+Sans+TC
       weight: 300
     glyphs: ${allowed_characters}
     id: font_response
